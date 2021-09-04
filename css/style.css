@@ -73,3 +73,24 @@ body {
 .nav-right > div a:first-child {
     margin-right: 10px;
 }
+
+.sec-1 {
+    margin-top: 150px;
+}
+
+.sec-1 .text > h1 {
+    font-size: 50px;
+    color: #261134;
+}
+
+.sec-1 .text > p {
+    color: #4D4D4D;
+}
+
+.sec-1 .text > a {
+    background-color: #f95c19;
+}
+
+.sec-1 > img {
+    width: 700px;
+}
