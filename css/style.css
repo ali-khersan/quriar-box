@@ -89,8 +89,76 @@ body {
 
 .sec-1 .text > a {
     background-color: #f95c19;
+    font-family: Oxanium;
 }
 
 .sec-1 > img {
     width: 700px;
+}
+
+.sec-2 .text > h2 {
+    color: #F95C19;
+}
+
+.sec-2 .text > p {
+    color: #11111D;
+}
+
+.sec-2 .cards .icon {
+    background: #ffcf6f;
+    padding: 30px;
+    border-radius: 50%;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+}
+
+.sec-2 .cards i {
+    margin-top: -30px;
+    color: #F95C19;
+    font-size: 36px;
+}
+
+.sec-2 .cards > div > div {
+    border-radius: 16px;
+    padding: 30px;
+}
+
+.sec-2 > div > div > h4 {
+    color: #464558;
+}
+
+.sec-2 > div > div > p {
+    color: #7B7A8B;
+}
+
+.sec-2 > div > div ul {
+    color: #F95C19;
+}
+
+.sec-2 > div > div ul > li > span {
+    color: #7B7A8B;
+}
+
+.sec-2 > div > div a {
+    color: #F95C19;
+    border: 1px solid #F95C19;
+    font-family: Oxanium;
+}
+
+.sec-2 > div > div a:hover {
+    border: 1px solid #F95C19;
+}
+
+.sec-2 > div > div a:focus {
+    color: #F95C19;
+}
+
+.sec-2 .active-a {
+    background-color: #f95c19 !important;
+    font-family: Oxanium;
+}
+
+.sec-2 .active-a:hover {
+    background-color: #f95c19 !important;
 }
