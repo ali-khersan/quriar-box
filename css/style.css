@@ -201,3 +201,27 @@ body {
 .sec-3 {
     margin-bottom: 150px;
 }
+
+.sec-4 > div {
+    padding: 178px;
+}
+
+.sec-4 > div > a > i {
+    color: #FFFFFF;
+    background: #F95C19;
+    border-radius: 50%;
+    font-size: 30px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.sec-4 > div > h2 {
+    color: #F95C19;
+    font-size: 32px;
+    font-family: Oxanium;
+}
+
+.sec-4 > div > p {
+    color: #FFFFFF;
+    font-size: 24px;
+}
