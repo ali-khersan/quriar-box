@@ -233,3 +233,72 @@ body {
     color: #FFFFFF;
     font-size: 24px;
 }
+
+.sec-5 .titles-icon > h1 {
+    font-family: Oxanium;
+    font-size: 32px;
+    color: #F95C19;
+}
+
+.sec-5 .titles-icon > h3 {
+    font-weight: 800;
+    font-size: 40px;
+    color: #11111D;
+}
+
+.sec-5 .titles-icon > i {
+    color: #ffd88e;
+    font-size: 90px;
+    margin-right: 34px;
+    left: 226px;
+}
+
+.sec-5 .detail > h2 {
+    font-size: 24px;
+    color: #F95C19;
+}
+
+.sec-5 .detail > p {
+    font-size: 16px;
+    color: #464558;
+}
+
+.sec-5 .stars {
+    color: #F95C19;
+}
+
+.sec-5 .profile > img {
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 12px;
+}
+
+.sec-5 .profile > div > h4 {
+    font-size: 16px;
+    color: #222132;
+}
+
+.sec-5 .profile > div > h5 {
+    font-size: 16px;
+    color: #464558;
+}
+
+.sec-5 .detail {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 16px;
+    margin-bottom: 80px;
+}
+
+.sec-5 .circles {
+    color: #fec7a5;
+    font-size: 10px;
+}
+
+.sec-5 .circles i:nth-child(2) {
+    color: #f95c19;
+}
+
+.sec-5 {
+    margin-bottom: 150px;
+}
