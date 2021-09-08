@@ -302,3 +302,59 @@ body {
 .sec-5 {
     margin-bottom: 150px;
 }
+
+.sec-6 .detail > img {
+    margin-bottom: 14px;
+}
+
+.sec-6 .detail > h2 {
+    font-weight: bold;
+    font-size: 24px;
+    color: #F95C19;
+    margin-bottom: 20px;
+}
+
+.sec-6 .detail > h1 {
+    font-weight: 800;
+    font-size: 38px;
+    color: #222132;
+}
+
+.sec-6 .detail > h3 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #9291A1;
+}
+
+.sec-6 > div:last-child {
+    background: #fff7e6;
+    border: none;
+}
+
+.sec-6 > div:last-child > input:first-child {
+    border: 2px solid hsl(40, 100%, 53%);
+}
+
+.sec-6 > div:last-child > textarea {
+    height: 200px;
+    background: #fff7e6;
+    margin-bottom: 40px;
+}
+
+.sec-6 > div:last-child > input {
+    margin-bottom: 10px;
+    background: #fff7e6;
+}
+
+.sec-6 > div:last-child > button {
+    background: #F95C19;
+    border: none;
+    font-family: Oxanium;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.sec-6 {
+    margin-bottom: 168px;
+}
