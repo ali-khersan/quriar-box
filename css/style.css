@@ -308,7 +308,6 @@ body {
 }
 
 .sec-6 .detail > h2 {
-    font-weight: bold;
     font-size: 24px;
     color: #F95C19;
     margin-bottom: 20px;
@@ -350,11 +349,89 @@ body {
     background: #F95C19;
     border: none;
     font-family: Oxanium;
-    font-weight: bold;
     font-size: 20px;
     color: #FFFFFF;
 }
 
 .sec-6 {
     margin-bottom: 168px;
+}
+
+.sec-7 .titles > h2 {
+    font-family: Oxanium;
+    font-size: 32px;
+    color: #F95C19;
+}
+
+.sec-7 .titles > h1 {
+    font-weight: 800;
+    font-size: 39px;
+    color: #222132;
+    margin-bottom: 84px;
+}
+
+.sec-7 .map-detail .detail > h3 {
+    font-size: 20px;
+    color: #464558;
+    margin-bottom: 36px;
+}
+
+.sec-7 .map-detail .detail > div > p > i {
+    color: #ffbd3b;
+}
+
+.sec-7 .map-detail .detail > div {
+    margin-bottom: 50px;
+}
+
+.sec-7 .map-detail .detail p {
+    font-size: 16px;
+    color: #5C5B6C;
+}
+
+.sec-7 .map-detail .detail {
+    background: #FFFFFF;
+    padding: 40px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.sec-7 .map-detail .contact i {
+    padding-right: 10px;
+    color: #ebebf5;
+}
+
+.sec-7 .map-detail i {
+    font-size: 20px;
+}
+
+.sec-7 .map-detail .contact i:first-child {
+    color: #f85b1b;
+}
+
+.sec-7 .map-detail {
+    margin-bottom: 30px;
+}
+
+.sec-7 > button {
+    background: #F95C19;
+    border: none;
+    font-family: Oxanium;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 14px 64px;
+}
+
+.sec-7 > button:hover {
+    background: #F95C19;
+    border: none;
+}
+
+.sec-7 > button:focus {
+    background: #F95C19;
+    border: none;
+}
+
+.sec-7 {
+    margin-bottom: 184px;
 }
