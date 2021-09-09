@@ -435,3 +435,122 @@ body {
 .sec-7 {
     margin-bottom: 184px;
 }
+
+.footer {
+    background: #222132;
+}
+
+.footer .sec-one .text h2 {
+    font-weight: 800;
+    font-size: 38px;
+    color: #FFFFFF;
+}
+
+.footer .sec-one .text p {
+    font-size: 16px;
+    color: #C5C5D2;
+    width: 500px;
+}
+
+.footer .sec-one .form {
+    color: #FFFFFF;
+    width: 440px;
+}
+
+.footer .sec-one .form > label {
+    font-family: Oxanium;
+    font-size: 18px;
+    color: #F95C19;
+}
+
+.footer .sec-one .form > div > input {
+    margin-right: 10px;
+    background: #222132;
+}
+
+.footer .sec-one .form > div > button {
+    background: #F95C19;
+    border: none;
+    font-family: Oxanium;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer .sec-one .form > div > button:hover {
+    background: #F95C19;
+    border: none;
+}
+
+.footer .sec-one .form > div > button:focus {
+    background: #F95C19;
+    border: none;
+}
+
+.footer .sec-one {
+    margin-bottom: 84px;
+}
+
+.footer .sec-two .logo {
+    width: 190px;
+}
+
+.footer .sec-two .logo > img {
+    width: 166px;
+}
+
+.footer .sec-two .logo > p {
+    font-weight: 600;
+    font-size: 16px;
+    color: #9291A1;
+}
+
+.footer .sec-two .links a {
+    font-weight: 600;
+    font-size: 16px;
+    color: #9291A1;
+}
+
+.footer .sec-two .links a:first-child {
+    font-family: Oxanium;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.footer .links {
+    width: 700px;
+}
+
+.footer .sec-two {
+    background: #2f2e41;
+}
+
+.footer .sec-three p:first-child {
+    font-weight: 500;
+    font-size: 12px;
+    color: #DBDBE9;
+}
+
+.footer .sec-three p:last-child {
+    font-weight: 500;
+    font-size: 12px;
+    color: #E0DEDE;
+}
+
+.footer .sec-three > p > span {
+    font-weight: 800;
+    font-size: 12px;
+    color: #F95C19;
+}
+
+.footer .sec-one {
+    padding: 80px 160px;
+}
+
+.footer .sec-two {
+    padding: 70px 160px;
+}
+
+.footer .sec-three {
+    padding: 20px 160px;
+}
