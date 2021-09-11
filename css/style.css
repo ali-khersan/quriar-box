@@ -554,3 +554,98 @@ body {
 .footer .sec-three {
     padding: 20px 160px;
 }
+
+@media only screen and (max-width: 975px) {
+    .sec-2 .cards > div > div {
+        height: 600px;
+        justify-content: space-between;
+    }
+
+    .sec-5 .titles-icon > i {
+        left: 40px;
+    }
+
+    .sec-7 .map-detail {
+        flex-wrap: wrap;    
+    }
+
+    .sec-7 .map-detail .detail {
+        width: 100%;
+        border-top-left-radius: 12px;
+        border-bottom-left-radius: 12px;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    .footer .sec-one .form > div > input {
+        width: 150px;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .sec-1 {
+        flex-wrap: wrap;
+    }
+
+    .sec-1 > img {
+        width: 550px;
+    }
+
+    .sec-2 .cards {
+        flex-wrap: wrap;
+    }
+
+    .sec-2 .cards > div {
+        margin-bottom: 30px;
+    }
+
+    .sec-2 .cards > div > div {
+        height: auto;
+    }
+
+    .sec-2 .cards > div:last-child {
+        padding-right: 24px;
+    }
+
+    .sec-3 {
+        flex-wrap: wrap;
+    }
+
+    .sec-5 .titles-icon > i {
+        margin: 0;
+        left: 0;
+        position: relative !important;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .sec-7 .map-detail {
+        flex-wrap: wrap;
+    }
+
+    .sec-7 .map-detail .detail {
+        width: 100%;
+        border-top-left-radius: 12px;
+        border-bottom-left-radius: 12px;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    .footer .sec-one {
+        flex-wrap: wrap;
+        padding: 80px 74px;
+    }
+
+    .footer .sec-two {
+        flex-wrap: wrap;
+        padding: 80px 74px;
+    }
+
+    .footer .sec-two .links {
+        flex-wrap: wrap;
+    }
+
+    .footer .sec-one .form > div > input {
+        width: 150px;
+    }
+}
